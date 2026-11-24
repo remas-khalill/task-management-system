@@ -9,3 +9,6 @@ A simple Python program that displays a to-do list with each task's title, prior
 3. Run the following command:
    ```bash
    python main.py
+   ## Author
+
+Remas Khalil Al-Fityani
